@@ -6,7 +6,7 @@
     Damián López
   </h1>
 
-  <!-- ROLES -->
+  <!-- ROLES -->  
   <p style="color:#9aa0a6; font-size:16px; margin-top:-5px;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </p>
