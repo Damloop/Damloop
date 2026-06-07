@@ -3,16 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=00eaff&animation=fadeIn" />
 </p>
 
-<!-- LOGO DL -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DL-Web%20·%20Game%20Dev-00eaff?style=for-the-badge&labelColor=0f0c29" />
-</p>
-
-<!-- NAME -->
-<h1 align="center" style="color:#00eaff; font-weight:700;">
-  Damián López
-</h1>
-
 <!-- ROLES -->
 <p align="center" style="color:#b5b5b5; font-size:16px;">
   Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
