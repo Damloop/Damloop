@@ -16,7 +16,7 @@
 <!-- PORTFOLIO LINK -->
 <p align="center">
   <a href="https://damloop.github.io/" target="_blank" style="color:#00eaff; font-size:18px; font-weight:600;">
-    👉 Visit my Portfolio
+    Portfolio
   </a>
 </p>
 
