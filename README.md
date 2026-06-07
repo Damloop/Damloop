@@ -1,25 +1,24 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=230&section=header&text=DAMIÁN%20LÓPEZ&fontSize=50&fontColor=00eaff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:0a3d62,100:0f0c29&height=240&section=header&text=DAMIÁN%20LÓPEZ&fontSize=55&fontColor=00eaff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- SUBTITLE / ROLES -->
-<p align="center" style="color:#9aa0a6; font-size:17px; margin-top:-20px;">
+<!-- ROLES -->
+<p align="center" style="color:#9aa0a6; font-size:18px; margin-top:-25px; font-weight:400;">
   Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
 </p>
 
-<!-- KEYWORDS (MATCHING YOUR WEBSITE) -->
-<p align="center" style="color:#00eaff; font-size:19px; font-weight:600; letter-spacing:2px; margin-top:5px;">
+<!-- KEYWORDS -->
+<p align="center" style="color:#00eaff; font-size:20px; font-weight:700; letter-spacing:3px; margin-top:8px;">
   WEB · UNITY · UNREAL · APPS · IA
 </p>
 
 <!-- PORTFOLIO BUTTON -->
-<p align="center" style="margin-top:15px;">
+<p align="center" style="margin-top:20px;">
   <a href="https://damloop.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29&borderRadius=6" />
   </a>
 </p>
-
 
 ---
 
@@ -28,7 +27,7 @@
 I’m a developer focused on **web applications, interactive experiences, and game development**.  
 I work with **HTML, CSS, JavaScript, React, Python**, and build gameplay systems using **Unity (C#)** and **Unreal Engine (C++/Blueprints)**.
 
-I also bring experience in IT systems (Intune, Active Directory, incident management, troubleshooting), which helps me deliver **stable, scalable and user‑focused solutions**.
+My background in IT systems (Intune, Active Directory, incident management, troubleshooting) helps me deliver **stable, scalable and user‑focused solutions**.
 
 I enjoy creating digital products—from full‑stack apps to gameplay mechanics—and translating **Figma/Sketch** designs into clean, accessible interfaces.
 
@@ -105,5 +104,5 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:0a3d62,100:0f0c29&height=120&section=footer" />
 </p>
