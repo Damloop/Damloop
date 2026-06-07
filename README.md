@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- LOGO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DL-Developer-6A5ACD?style=for-the-badge&logo=ghost&logoColor=white" />
-</p>
 
 ---
 
