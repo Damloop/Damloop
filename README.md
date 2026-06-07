@@ -1,10 +1,10 @@
 <!-- HEADER UX/UI -->
 <p align="center">
-  <span style="color:#00eaff; font-weight:900; font-size:42px; display:block; margin-bottom:4px;">
+  <span style="color:#00eaff; font-weight:900; font-size:46px; display:block; margin-bottom:6px;">
     Damián López
   </span>
-  
-  <span style="color:#b5b5b5; font-size:15px; display:block; margin-top:2px;">
+
+  <span style="color:#b5b5b5; font-size:15px; display:block;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </span>
 
@@ -38,22 +38,22 @@ I enjoy creating digital products—from full‑stack apps to gameplay mechanics
 
 ## <p align="center"><span style="color:#00eaff;">🚀 Tech Stack</span></p>
 
-### 🎨 Frontend
+### <p align="center"><span style="color:#00eaff; font-weight:700;">🎨 Frontend</span></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </p>
 
-### 🧠 Backend
+### <p align="center"><span style="color:#00eaff; font-weight:700;">🧠 Backend</span></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 </p>
 
-### 🎮 Game Development
+### <p align="center"><span style="color:#00eaff; font-weight:700;">🎮 Game Development</span></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,unreal,cpp" />
 </p>
 
-### 🛠️ Tools & Systems
+### <p align="center"><span style="color:#00eaff; font-weight:700;">🛠️ Tools & Systems</span></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure,linux" />
 </p>
