@@ -1,25 +1,20 @@
-<!-- HEADER EXACTO AL ESTILO DEL PORTFOLIO -->
-<div align="center">
+<!-- HEADER ESTILO PORTFOLIO -->
+<div align="center" style="text-align:center;">
 
   <!-- NAME -->
-  <h1 style="color:#00eaff; font-weight:800; margin-bottom:6px;">
+  <h1 style="color:#00eaff; font-weight:900; font-size:46px; margin-bottom:8px;">
     Damián López
   </h1>
 
-  <!-- ROLES -->  
-  <p style="color:#9aa0a6; font-size:16px; margin-top:-5px;">
+  <!-- ROLES -->
+  <p style="color:#9aa0a6; font-size:16px; margin-top:-5px; font-weight:400;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </p>
 
   <!-- KEYWORDS -->
-  <p style="color:#00eaff; font-size:18px; font-weight:700; letter-spacing:3px; margin-top:2px;">
+  <p style="color:#00eaff; font-size:18px; font-weight:700; letter-spacing:3px; margin-top:4px;">
     WEB · UNITY · UNREAL · APPS · IA
   </p>
-
-  <!-- PORTFOLIO BUTTON -->
-  <a href="https://damloop.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29" />
-  </a>
 
 </div>
 
