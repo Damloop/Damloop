@@ -104,8 +104,9 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
+  <img src="https://streak-stats.demolab.com?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
 </p>
+
 
 ---
 
