@@ -1,4 +1,4 @@
-<!-- HEADER STYLE MATCHING PORTFOLIO -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=00eaff&animation=fadeIn" />
 </p>
@@ -8,22 +8,22 @@
   <img src="https://img.shields.io/badge/DL-Web%20·%20Game%20Dev-00eaff?style=for-the-badge&labelColor=0f0c29" />
 </p>
 
-<!-- MAIN TITLE -->
+<!-- NAME -->
 <h1 align="center" style="color:#00eaff; font-weight:700;">
   Damián López
 </h1>
 
-<!-- ROLES (MATCHING YOUR WEBSITE) -->
+<!-- ROLES -->
 <p align="center" style="color:#b5b5b5; font-size:16px;">
   Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
 </p>
 
-<!-- KEYWORDS (MATCHING YOUR WEBSITE) -->
+<!-- KEYWORDS -->
 <p align="center" style="color:#00eaff; font-size:18px; font-weight:600;">
   WEB · UNITY · UNREAL · APPS · IA
 </p>
 
-<!-- LINK TO PORTFOLIO -->
+<!-- PORTFOLIO LINK -->
 <p align="center">
   <a href="https://damloop.github.io/" target="_blank" style="color:#00eaff; font-size:18px; font-weight:600;">
     👉 Visit my Portfolio
@@ -98,13 +98,14 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 
 # 📊 GitHub Analytics
 
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Damloop&show_icons=true&theme=tokyonight&title_color=00eaff&icon_color=00eaff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damloop&layout=compact&theme=tokyonight&title_color=00eaff" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
 </p>
-
-
 
 ---
 
