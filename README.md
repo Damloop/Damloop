@@ -1,18 +1,18 @@
 <!-- HEADER ESTILO PORTFOLIO -->
-<div align="center" style="text-align:center;">
+<div align="center">
 
   <!-- NAME -->
-  <h1 style="color:#00eaff; font-weight:900; font-size:50px; margin-bottom:8px;">
+  <h1 style="color:#00eaff; font-weight:900; font-size:50px; margin-bottom:8px; text-align:center;">
     Damián López
   </h1>
 
   <!-- ROLES -->
-  <p style="color:#b5b5b5; font-size:16px; margin-top:-5px; font-weight:400;">
+  <p style="color:#b5b5b5; font-size:16px; margin-top:-5px; font-weight:400; text-align:center;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </p>
 
   <!-- KEYWORDS -->
-  <p style="color:#00eaff; font-size:18px; font-weight:700; letter-spacing:3px; margin-top:4px;">
+  <p style="color:#00eaff; font-size:18px; font-weight:700; letter-spacing:3px; margin-top:4px; text-align:center;">
     WEB · UNITY · UNREAL · APPS · IA
   </p>
 
@@ -20,16 +20,19 @@
 
 ---
 
-<!-- PORTFOLIO BUTTON -->
+<!-- PORTFOLIO BUTTON (VERSIÓN PROFESIONAL) -->
 <p align="center" style="margin-top:20px;">
-  <a href="https://damloop.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29&borderRadius=6" />
+  <a href="https://damloop.github.io/" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00eaff?style=for-the-badge&logo=github&logoColor=00eaff&labelColor=0a0a0a&color=0f0f0f" 
+      alt="Portfolio Button"
+    />
   </a>
 </p>
 
 ---
 
-# 👋 About Me
+<h1 align="center" style="color:#00eaff;">👋 About Me</h1>
 
 I’m a developer focused on **web applications, interactive experiences, and game development**.  
 I work with **HTML, CSS, JavaScript, React, Python**, and build gameplay systems using **Unity (C#)** and **Unreal Engine (C++/Blueprints)**.
@@ -40,7 +43,7 @@ I enjoy creating digital products—from full‑stack apps to gameplay mechanics
 
 ---
 
-# 🚀 Tech Stack
+<h1 align="center" style="color:#00eaff;">🚀 Tech Stack</h1>
 
 ## 🎨 Frontend
 <p align="center">
@@ -64,7 +67,7 @@ I enjoy creating digital products—from full‑stack apps to gameplay mechanics
 
 ---
 
-# 🌟 Featured Projects
+<h1 align="center" style="color:#00eaff;">🌟 Featured Projects</h1>
 
 ## 🔹 ShadowMap – Paranormal Route Creator App
 📍 *React · React Leaflet · FastAPI · Python*  
@@ -84,7 +87,7 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 
 ---
 
-# 😄 Fun Facts
+<h1 align="center" style="color:#00eaff;">😄 Fun Facts</h1>
 
 - 🎮 I love mixing **web dev + game dev**  
 - 👻 I enjoy designing spooky interfaces (ShadowMap vibes)  
@@ -93,7 +96,7 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center" style="color:#00eaff;">📊 GitHub Analytics</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
@@ -101,7 +104,7 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 
 ---
 
-# 📫 Contact
+<h1 align="center" style="color:#00eaff;">📫 Contact</h1>
 
 📌 **Portfolio:** https://damloop.github.io  
 📌 **GitHub:** https://github.com/Damloop  
