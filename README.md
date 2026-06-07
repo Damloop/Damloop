@@ -1,23 +1,27 @@
-<!-- HEADER UX/UI -->
-<p align="center">
-  <span style="color:#00eaff; font-weight:900; font-size:46px; display:block; margin-bottom:6px;">
+<!-- NOMBRE GRANDE + COLOR + UX/UI -->
+<h1 align="center">
+  <span style="color:#00eaff; font-weight:900;">
     Damián López
   </span>
+</h1>
 
-  <span style="color:#b5b5b5; font-size:15px; display:block;">
+<p align="center">
+  <span style="color:#b5b5b5; font-size:16px;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </span>
+</p>
 
-  <span style="color:#00eaff; font-size:17px; font-weight:700; letter-spacing:3px; display:block; margin-top:6px;">
+<p align="center">
+  <span style="color:#00eaff; font-size:18px; font-weight:700; letter-spacing:3px;">
     WEB · UNITY · UNREAL · APPS · IA
   </span>
 </p>
 
-<!-- PORTFOLIO BUTTON UX/UI -->
-<p align="center" style="margin-top:18px;">
+<!-- BOTÓN PORTFOLIO PREMIUM -->
+<p align="center" style="margin-top:15px;">
   <a href="https://damloop.github.io/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0d0d0d?style=for-the-badge&logo=link&logoColor=00eaff&labelColor=000000&color=000000&borderRadius=8" 
+      src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0a0a0a?style=for-the-badge&logo=windowsterminal&logoColor=00eaff&labelColor=000000&color=000000&borderRadius=10" 
       alt="Portfolio Button"
     />
   </a>
