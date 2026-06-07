@@ -2,12 +2,12 @@
 <div align="center" style="text-align:center;">
 
   <!-- NAME -->
-  <h1 style="color:#00eaff; font-weight:900; font-size:46px; margin-bottom:8px;">
+  <h1 style="color:#00eaff; font-weight:900; font-size:50px; margin-bottom:8px;">
     Damián López
   </h1>
 
   <!-- ROLES -->
-  <p style="color:#9aa0a6; font-size:16px; margin-top:-5px; font-weight:400;">
+  <p style="color:#b5b5b5; font-size:16px; margin-top:-5px; font-weight:400;">
     Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
   </p>
 
