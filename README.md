@@ -98,10 +98,7 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Damloop&show_icons=true&theme=tokyonight&title_color=00eaff&icon_color=00eaff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damloop&layout=compact&theme=tokyonight&title_color=00eaff" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
