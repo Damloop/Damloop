@@ -1,18 +1,23 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=00eaff&animation=fadeIn" />
+</p>
+
+<!-- LOGO DL -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DL-Web%20·%20Game%20Dev-00eaff?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0f0c29" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Damián López
 
-**Web Developer · App Developer · Unity & Unreal Developer**
+**Web Developer · Game Developer (Unity & Unreal) · App Developer**
 
 I’m a developer focused on **web applications, interactive experiences, and game development**.  
 I work with **HTML, CSS, JavaScript, React, Python**, and build gameplay systems using **Unity (C#)** and **Unreal Engine (C++/Blueprints)**.
 
-I also bring experience from IT systems (Intune, Active Directory, incident management, troubleshooting), which helps me deliver **stable, scalable and user‑focused solutions**.
+I also bring experience in IT systems (Intune, Active Directory, incident management, troubleshooting), which helps me deliver **stable, scalable and user‑focused solutions**.
 
 I enjoy creating digital products—from full‑stack apps to gameplay mechanics—and translating **Figma/Sketch** designs into clean, accessible interfaces.
 
@@ -21,22 +26,22 @@ I enjoy creating digital products—from full‑stack apps to gameplay mechanics
 # 🚀 Tech Stack
 
 ## 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </p>
 
 ## 🧠 Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 </p>
 
 ## 🎮 Game Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,unreal,cpp" />
 </p>
 
 ## 🛠️ Tools & Systems
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure,linux" />
 </p>
 
@@ -74,12 +79,12 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Damloop&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damloop&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Damloop&show_icons=true&theme=tokyonight&title_color=00eaff&icon_color=00eaff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damloop&layout=compact&theme=tokyonight&title_color=00eaff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damloop&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damloop&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" />
 </p>
 
 ---
@@ -94,5 +99,5 @@ Two promotional comics showcased at SIMO Madrid with strong engagement and visua
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=120&section=footer" />
 </p>
