@@ -1,7 +1,30 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:0a3d62,100:0f0c29&height=240&section=header&text=DAMIÁN%20LÓPEZ&fontSize=55&fontColor=00eaff&animation=fadeIn&fontAlignY=38" />
-</p>
+<!-- HEADER EXACTO AL ESTILO DEL PORTFOLIO -->
+<div align="center">
+
+  <!-- NAME -->
+  <h1 style="color:#00eaff; font-size:48px; font-weight:800; margin-bottom:10px;">
+    Damián López
+  </h1>
+
+  <!-- ROLES -->
+  <p style="color:#9aa0a6; font-size:17px; margin-top:-10px;">
+    Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
+  </p>
+
+  <!-- KEYWORDS -->
+  <p style="color:#00eaff; font-size:19px; font-weight:700; letter-spacing:3px; margin-top:5px;">
+    WEB · UNITY · UNREAL · APPS · IA
+  </p>
+
+  <!-- PORTFOLIO LINK -->
+  <a href="https://damloop.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29" />
+  </a>
+
+</div>
+
+---
+
 
 <!-- ROLES -->
 <p align="center" style="color:#9aa0a6; font-size:18px; margin-top:-25px; font-weight:400;">
