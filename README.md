@@ -1,24 +1,25 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=220&section=header&text=DAMIÁN%20LÓPEZ&fontSize=45&fontColor=00eaff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:0a3d62,100:0f0c29&height=230&section=header&text=DAMIÁN%20LÓPEZ&fontSize=50&fontColor=00eaff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<!-- ROLES -->
-<p align="center" style="color:#b5b5b5; font-size:16px;">
+<!-- SUBTITLE / ROLES -->
+<p align="center" style="color:#9aa0a6; font-size:17px; margin-top:-20px;">
   Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
 </p>
 
-<!-- KEYWORDS -->
-<p align="center" style="color:#00eaff; font-size:18px; font-weight:600;">
+<!-- KEYWORDS (MATCHING YOUR WEBSITE) -->
+<p align="center" style="color:#00eaff; font-size:19px; font-weight:600; letter-spacing:2px; margin-top:5px;">
   WEB · UNITY · UNREAL · APPS · IA
 </p>
 
-<!-- PORTFOLIO LINK -->
-<p align="center">
-  <a href="https://damloop.github.io/" target="_blank" style="color:#00eaff; font-size:18px; font-weight:600;">
-    Portfolio
+<!-- PORTFOLIO BUTTON -->
+<p align="center" style="margin-top:15px;">
+  <a href="https://damloop.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00eaff?style=for-the-badge&logo=windowsterminal&logoColor=0f0c29&labelColor=0f0c29" />
   </a>
 </p>
+
 
 ---
 
