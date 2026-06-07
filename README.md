@@ -20,16 +20,6 @@
 
 ---
 
-<!-- ROLES -->
-<p align="center" style="color:#9aa0a6; font-size:18px; margin-top:-25px; font-weight:400;">
-  Web Developer · Game Developer · IT Specialist · Cybersecurity · UI/UX · AI Projects
-</p>
-
-<!-- KEYWORDS -->
-<p align="center" style="color:#00eaff; font-size:20px; font-weight:700; letter-spacing:3px; margin-top:8px;">
-  WEB · UNITY · UNREAL · APPS · IA
-</p>
-
 <!-- PORTFOLIO BUTTON -->
 <p align="center" style="margin-top:20px;">
   <a href="https://damloop.github.io/" target="_blank">
